@@ -8,7 +8,7 @@
 
 # Ferramentas Utilizadas
 
-# 1. VirtualBox
+# 1. VirtualBox:
 
    ![Screenshot_20241213-192022](https://github.com/user-attachments/assets/a83e3495-fc60-4b20-9ed6-d0721e5aefb1)
 
@@ -18,7 +18,7 @@ Ferramenta de virtualização que permite executar sistemas operacionais em uma 
 Objetivo no projeto: Instalar e configurar o Kali Linux para criar o ambiente controlado de testes.
 
 
-# 2. Kali Linux
+# 2. Kali Linux:
 
    ![Screenshot_20241213-192515](https://github.com/user-attachments/assets/70df1348-5b19-4549-9f06-a34e34ac681a)
 
