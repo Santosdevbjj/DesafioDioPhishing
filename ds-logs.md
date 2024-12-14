@@ -14,6 +14,8 @@ username=usuario_exemplo
 password=senha_exemplo 
 
 
+________________________________________
+
 
 [*] We got a hit! IP: 192.168.1.102
 [*] User-Agent: Mozilla/5.0 (Windows NT 10.0; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/84.0
@@ -21,6 +23,9 @@ password=senha_exemplo
 [*] Data captured:
 username=teste_user
 password=senha123
+
+
+_______________________________________
 
 
 
