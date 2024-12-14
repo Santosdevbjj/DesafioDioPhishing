@@ -240,10 +240,29 @@ O log normalmente aparece apenas no terminal. Para salvá-lo em um arquivo, voc�
 
 # 1. Execute o SET redirecionando a saída:
 
-# sudo setoolkit > logs.txt
+ sudo setoolkit > logs.txt
 
 
 # 2. Todos os resultados exibidos no terminal serão salvos no arquivo logs.txt.
+
+
+
+# Comandos úteis para gerenciar logs
+
+# Visualizar em tempo real (log ativo):
+
+tail -f /var/log/setoolkit/harvester.log
+
+
+# Filtrar informações específicas:
+
+grep "Captured" /var/log/setoolkit/harvester.log
+
+
+# Compactar logs antigos:
+
+tar -czvf logs_antigos.tar.gz /var/log/setoolkit/
+
 
 
 # Etapa 5: Publicar no GitHub
