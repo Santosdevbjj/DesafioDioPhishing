@@ -4,7 +4,7 @@
 
 ![Screenshot_20241213-174339](https://github.com/user-attachments/assets/4b5db1cb-8ee3-467b-84c9-872c37c1c033)
 
-Este desafio DIO de PHISHING é parte do Bootcamp Santander Cibersegurança #2
+**Este desafio DIO de PHISHING é parte do Bootcamp Santander Cibersegurança #2**
 
 ![Screenshot_20241213-174549](https://github.com/user-attachments/assets/1477545d-011a-440f-97c5-fd16fe2912b4)
 
@@ -14,7 +14,7 @@ Criar e utilizar ferramentas de phishing é ilegal e pode resultar em graves con
 É fundamental utilizar essas ferramentas em ambientes controlados e com autorização expressa para fins de testes e aprendizado.
 
 
-O desafio proposto pela DIO visa objetiva, que o estudante de cibersegurança, pratique a criação de ataques de phishing utilizando o Kali Linux.
+O desafio proposto pela DIO objetiva, que o estudante de cibersegurança, pratique a criação de ataques de phishing utilizando o Kali Linux.
 
 O objetivo é simular um ataque real para fins de estudo e aprimoramento de suas habilidades em segurança da informação 
 
