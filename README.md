@@ -18,20 +18,20 @@ O desafio proposto pela DIO objetiva, que o estudante de cibersegurança, pratiq
 
 O objetivo é simular um ataque real para fins de estudo e aprimoramento de suas habilidades em segurança da informação 
 
-# Kali Linux:
+### Kali Linux:
 
 ![Screenshot_20241213-173508](https://github.com/user-attachments/assets/99247379-2986-4ec8-953b-7c956cca5c0e)
 
 É uma distribuição Linux especializada em testes de penetração e segurança da informação.
 Possui uma vasta gama de ferramentas pré-instaladas para diversas técnicas de hacking ético.
 
-# Setoolkit:
+### Setoolkit:
 ![Screenshot_20241213-173823](https://github.com/user-attachments/assets/21f5d895-be66-4138-bf13-0459839d5306)
 
 É uma ferramenta gráfica do Kali Linux que facilita a criação de ataques de engenharia social, incluindo phishing. Ela automatiza muitos dos processos, tornando-o mais fácil de usar, mesmo para iniciantes. 
 
 
-# Phishing:
+### Phishing:
 
 
 Phishing é um tipo de ataque cibernético onde criminosos tentam enganar pessoas para que revelem informações confidenciais, como senhas, números de cartões de crédito ou dados pessoais.
@@ -41,7 +41,7 @@ Esse tipo de golpe geralmente ocorre por meio de e-mails, mensagens de texto, re
 O termo "phishing" deriva da palavra inglesa fishing (pescar), pois os atacantes "lançam a isca" esperando que as vítimas "mordam".
 
 
-# Como funciona o phishing?
+### Como funciona o phishing?
 
 1. Criação de uma isca: O atacante cria mensagens ou sites que parecem legítimos.
 
@@ -61,9 +61,9 @@ Um desconto inacreditável.
 4. Uso das informações roubadas: Os dados podem ser usados para roubo financeiro, identidade ou venda na dark web.
 
 
-# Tipos de phishing
+### Tipos de phishing
 
-# 1. Email phishing:
+### 1. Email phishing:
 
 O criminoso envia e-mails falsos fingindo ser uma organização confiável.
 
@@ -72,7 +72,7 @@ Exemplo: Um e-mail que parece ser do seu banco solicitando a atualização de da
 Sinal de alerta: Links no e-mail levam a um site falso.
 
 
-# 2. Spear phishing:
+### 2. Spear phishing:
 
 Um ataque direcionado a uma pessoa ou organização específica.
 
@@ -81,25 +81,25 @@ Exemplo: O atacante estuda você, descobre seu empregador e envia um e-mail pers
 Sinal de alerta: O uso de informações pessoais para parecer legítimo.
 
 
-# 3. Smishing (phishing por SMS):
+### 3. Smishing (phishing por SMS):
 
-# Golpes realizados via mensagens de texto.
+### Golpes realizados via mensagens de texto.
 
 Exemplo: Um SMS dizendo que sua conta foi bloqueada e que você precisa clicar em um link para resolver o problema.
 
 Sinal de alerta: O link geralmente não é confiável.
 
 
-# 4. Vishing (phishing por voz):
+### 4. Vishing (phishing por voz):
 
-# Golpes realizados via ligações telefônicas.
+### Golpes realizados via ligações telefônicas.
 
 Exemplo: Um falso atendente de banco pedindo que você forneça seu CPF e senha para resolver um suposto problema.
 
 Sinal de alerta: Pedidos de informações confidenciais por telefone.
 
 
-# 5. Pharming:
+### 5. Pharming:
 
 Quando criminosos redirecionam o tráfego de um site legítimo para uma página falsa.
 
@@ -108,29 +108,29 @@ Exemplo: Você digita o endereço do banco corretamente, mas é levado a um site
 Sinal de alerta: Erros ortográficos no site falso ou certificados de segurança ausentes.
 
 
-# Exemplo prático de phishing
+### Exemplo prático de phishing
 
-# 1. Email recebido:
+### 1. Email recebido:
 
-# De: suporte@seubanco.com.br 
+### De: suporte@seubanco.com.br 
 
-# Assunto: [URGENTE] Sua conta será bloqueada! 
+### Assunto: [URGENTE] Sua conta será bloqueada! 
 
-# Mensagem:  
+### Mensagem:  
 
-# Prezado cliente,  
+### Prezado cliente,  
 
-# Notamos atividades suspeitas em sua conta. Para garantir sua segurança, clique no link abaixo e atualize suas informações imediatamente. 
+### Notamos atividades suspeitas em sua conta. Para garantir sua segurança, clique no link abaixo e atualize suas informações imediatamente. 
 
-# [Atualizar Conta]  
+### [Atualizar Conta]  
 
-# Atenciosamente, 
+### Atenciosamente, 
 
-# Suporte Banco X
+### Suporte Banco X
 
 
 
-# 2. O que acontece?
+### 2. O que acontece?
 
 O link direciona para um site falso.
 
@@ -139,7 +139,7 @@ A vítima insere dados como login, senha e CPF.
 O criminoso rouba os dados e pode acessar a conta bancária.
 
 
-# 3. Como identificar o golpe?
+### 3. Como identificar o golpe?
 
 O endereço do remetente é suspeito (exemplo: suporte@seubanco.com.br pode ser falso).
 
@@ -148,7 +148,7 @@ O texto tem erros gramaticais.
 Há um tom de urgência para apressar a vítima.
 
 
-# Dicas para se proteger
+### Dicas para se proteger
 
 1. Desconfie de mensagens urgentes que pedem informações pessoais ou financeiras.
 
@@ -168,6 +168,15 @@ Há um tom de urgência para apressar a vítima.
 6. Use softwares de segurança atualizados para bloquear sites maliciosos.
 
 
+---
 
+**Contato:**
+
+
+[![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://santosdevbjj.github.io/portfolio/)
+[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz) 
+
+
+---
 
 
