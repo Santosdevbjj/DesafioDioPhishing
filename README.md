@@ -144,10 +144,6 @@ O laboratório entregou:
 ### Log de Captura
 ![Screenshot_20241213-204010](https://github.com/user-attachments/assets/3b23148e-e961-4536-aeac-77e9a3aad73a)
 
----
-
-> *"O mercado não contrata ferramenta. Contrata quem resolve problemas."*
-> — Meigarom Lopes
 
 ---
 
