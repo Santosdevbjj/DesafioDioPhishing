@@ -269,7 +269,7 @@ tar -czvf logs_antigos.tar.gz /var/log/setoolkit/
 
 # 1. Criar um repositório no GitHub:
 
-Nomeie como DesafioDioPhishing 
+Nomeie como DesafioPhishing 
 
 
 
